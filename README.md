@@ -7,5 +7,6 @@ This is a demo repository meant for learning purposes. The main aim is to provid
 3. Make changes --> commit
 4. Create a pull request
 
-# Commit message
-The commit message must include the issue number against which the pull request is being created.
+# Pull requests
+1. The commit message should be comprehensive and not have messages like "Minor Changes", "refactoring", etc.
+2. The PR description must include the issue number against which the PR is created.
