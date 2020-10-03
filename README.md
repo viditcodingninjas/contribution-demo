@@ -6,3 +6,6 @@ This is a demo repository meant for learning purposes. The main aim is to provid
 2. Clone the project
 3. Make changes --> commit
 4. Create a pull request
+
+# Commit message
+The commit message must include the issue number against which the pull request is being created.
