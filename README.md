@@ -4,5 +4,5 @@ This is a demo repository meant for learning purposes. The main aim is to provid
 # How to contribute
 1. Fork this repository
 2. Clone the project
-3. Make changes to names.txt
+3. Add your name with current date to names.txt
 4. Create a pull request
