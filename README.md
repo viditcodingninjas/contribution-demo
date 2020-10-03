@@ -4,7 +4,7 @@ This is a demo repository meant for learning purposes. The main aim is to provid
 # How to contribute
 1. Fork this repository
 2. Clone the project
-3. Make changes --> commit
+3. Choose an issue --> Make changes --> commit
 4. Create a pull request
 
 # Pull requests
